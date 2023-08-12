@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeircul&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeircul&theme=tokyonight)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on Azure gouvernance in a major oil company
