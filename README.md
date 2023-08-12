@@ -1,3 +1,5 @@
+Oh look, you are on [dark mode](https://github.com/settings/appearance#gh-dark-mode-only)[light mode](https://github.com/settings/appearance#gh-light-mode-only).
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeircul&theme=tokyonight)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on Azure gouvernance in a major oil company
