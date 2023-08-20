@@ -7,4 +7,4 @@ Oh look, you are on [dark mode](https://github.com/settings/appearance#gh-dark-m
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Linux
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oveaursland/)
-- ⚡ Fun fact: There exist a jellyfish in Japan that can't be killed
+- ⚡ Fun fact: **Turritopsis dohrnii**, also known as the **immortal jellyfish**, is a species of small, biologically immortal jellyfish found worldwide in temperate to tropic waters
