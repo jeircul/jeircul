@@ -2,8 +2,6 @@ Oh look, you are on [dark mode](https://github.com/settings/appearance#gh-dark-m
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeircul&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on [firipy](https://github.com/jeircul/firipy)
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Linux, Azure or Github workflows
+- 🔭 I’m currently working
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oveaursland/)
 - ⚡ Fun fact: **Turritopsis dohrnii**, also known as the **immortal jellyfish**, is a species of small, biologically immortal jellyfish found worldwide in temperate to tropic waters
