@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=600&lines=Azure+Landing+Zones+%C2%B7+Policy-as-Code;Platform+Engineering+%C2%B7+GitOps;Governed+Cloud+%C2%B7+Automated+Everything;Turning+Compliance+Into+Self-Service" alt="Typing SVG" />
 
 # Ove Aursland
+### DevOps Engineer · Cloud Platform Specialist
 
 DevOps engineer building governed, automation-first cloud platforms in the energy sector.
 I turn governance requirements into self-service landing zones, policy-as-code, and predictable
@@ -79,6 +80,7 @@ pipelines — so delivery teams ship fast without breaking compliance.
 ![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Security & Identity**
 
@@ -110,6 +112,14 @@ pipelines — so delivery teams ship fast without breaking compliance.
 ![gh CLI](https://img.shields.io/badge/gh_CLI-181717?style=flat-square&logo=github&logoColor=white)
 ![kubectl](https://img.shields.io/badge/kubectl-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![flux CLI](https://img.shields.io/badge/flux_CLI-5468FF?style=flat-square&logo=flux&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
