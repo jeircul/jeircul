@@ -5,7 +5,7 @@
 # Ove Aursland
 ### DevOps Engineer · Cloud Platform Specialist
 
-DevOps engineer building governed, automation-first cloud platforms in the energy sector.
+Building governed, automation-first cloud platforms in the energy sector.
 I turn governance requirements into self-service landing zones, policy-as-code, and predictable
 pipelines — so delivery teams ship fast without breaking compliance.
 
